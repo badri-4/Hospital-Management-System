@@ -1,4 +1,4 @@
-# Hospital-Management-System
+# Hospital Management System
 HMS was introduced to solve the complications arising from managing all the paperwork of every patient associated with the various departments of hospitalization with confidentiality. 
 HMS provides the ability to track and record all the paperwork in one place, reducing manual effort in arranging and analyzing the patients' paperwork. 
 
